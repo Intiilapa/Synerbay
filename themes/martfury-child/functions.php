@@ -1,7 +1,21 @@
 <?php
 add_action( 'wp_enqueue_scripts', 'martfury_child_enqueue_scripts', 20 );
 function martfury_child_enqueue_scripts() {
-	wp_enqueue_style( 'martfury-child-style', get_stylesheet_uri() );
+
+    // load synerbay.js
+    wp_register_script( "synerbay-script", get_stylesheet_directory_uri() . '/synerbay.js');
+
+    // load synerbay.js
+    wp_enqueue_script("synerbay-script", get_stylesheet_directory_uri() . '/synerbay.js', ['jquery'], false, true);
+
+    // localize the script to your domain name, so that you can reference the url to admin-ajax.php file easily
+    wp_localize_script( 'synerbay-script', 'synerbayAjax', array(
+        'restURL' => rest_url(),
+//            'restNonce' => wp_create_nonce('Syn3rB4yZoZo')
+        'restNonce' => wp_create_nonce('wp_rest')
+    ));
+
+    wp_enqueue_style( 'martfury-child-style', get_stylesheet_uri() );
     wp_enqueue_style('child-style-custom', get_stylesheet_directory_uri() . '/custom.css');
 	if ( is_rtl() ) {
 		wp_enqueue_style( 'martfury-rtl', get_template_directory_uri() . '/rtl.css', array(), '20180105' );
