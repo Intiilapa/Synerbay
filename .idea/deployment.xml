@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="Synerbay">
+    <serverData>
+      <paths name="At Home in Hungary - Server">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="At home">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Plesk Server #2">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Synerbay">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/var/www/vhosts/synerbay.com/stage.synerbay.com/wp-content" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/var/www/vhosts/synerbay.com/stage.synerbay.com/wp-content/upgrade" />
+            <excludedPath path="/var/www/vhosts/synerbay.com/stage.synerbay.com/wp-content/uploads" />
+            <excludedPath path="/var/www/vhosts/synerbay.com/stage.synerbay.com/wp-content/fonts" />
+            <excludedPath path="/var/www/vhosts/synerbay.com/stage.synerbay.com/wp-content/plugins/elementor" />
+            <excludedPath path="/var/www/vhosts/synerbay.com/stage.synerbay.com/wp-content/plugins/kirki" />
+            <excludedPath path="/var/www/vhosts/synerbay.com/stage.synerbay.com/wp-content/plugins/martfury-addons" />
+            <excludedPath local="true" path="$PROJECT_DIR$/upgrade" />
+            <excludedPath local="true" path="$PROJECT_DIR$/uploads" />
+            <excludedPath local="true" path="$PROJECT_DIR$/fonts" />
+            <excludedPath local="true" path="$PROJECT_DIR$/plugins/elementor" />
+            <excludedPath local="true" path="$PROJECT_DIR$/plugins/kirki" />
+            <excludedPath local="true" path="$PROJECT_DIR$/plugins/martfury-addons" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="W5labs">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

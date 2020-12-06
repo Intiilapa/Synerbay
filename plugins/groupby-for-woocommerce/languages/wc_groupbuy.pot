@@ -1,0 +1,887 @@
+# Copyright (C) 2020 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/groupby-for-woocommerce\n"
+"POT-Creation-Date: 2020-03-17 10:03:29+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: admin/class-wc-groupbuy-admin.php:116
+msgid "Please enter in a value greater than the min deal."
+msgstr ""
+
+#: admin/class-wc-groupbuy-admin.php:188
+msgid "Docs"
+msgstr ""
+
+#: admin/class-wc-groupbuy-admin.php:189
+msgid "Support"
+msgstr ""
+
+#: admin/class-wc-groupbuy-admin.php:190
+msgid "More WooCommerce Extensions"
+msgstr ""
+
+#: admin/class-wc-groupbuy-admin.php:212
+msgid "Group Buy deals for Woocommerce recommends that you set up a cron job to check for finished Group Buy deals: <b>%s/?groupbuy-cron=check</b>. Set it to every minute | <a href=\"%s\">Hide Notice</a>"
+msgstr ""
+
+#: admin/class-wc-groupbuy-admin.php:244
+msgid "Groupbuy"
+msgstr ""
+
+#: admin/class-wc-groupbuy-admin.php:259 admin/class-wc-groupbuy-admin.php:617
+msgid "Group Buy"
+msgstr ""
+
+#: admin/class-wc-groupbuy-admin.php:286
+msgid "Min deals"
+msgstr ""
+
+#: admin/class-wc-groupbuy-admin.php:290
+msgid "Minimum deals to be sold"
+msgstr ""
+
+#: admin/class-wc-groupbuy-admin.php:297
+msgid "Max deals"
+msgstr ""
+
+#: admin/class-wc-groupbuy-admin.php:301
+msgid "Maximum deals to be sold"
+msgstr ""
+
+#: admin/class-wc-groupbuy-admin.php:308
+msgid "Max deals per user"
+msgstr ""
+
+#: admin/class-wc-groupbuy-admin.php:312
+msgid "Max deals sold per user"
+msgstr ""
+
+#: admin/class-wc-groupbuy-admin.php:318
+msgid "Group Buy Price"
+msgstr ""
+
+#: admin/class-wc-groupbuy-admin.php:323
+msgid "Group Buy deal price"
+msgstr ""
+
+#: admin/class-wc-groupbuy-admin.php:329
+msgid "Regular Price"
+msgstr ""
+
+#: admin/class-wc-groupbuy-admin.php:334
+msgid "Regular product price (for comparison)"
+msgstr ""
+
+#: admin/class-wc-groupbuy-admin.php:341
+msgid "Group buy available from date"
+msgstr ""
+
+#: admin/class-wc-groupbuy-admin.php:342
+msgctxt "placeholder"
+msgid "From&hellip;"
+msgstr ""
+
+#: admin/class-wc-groupbuy-admin.php:342 admin/class-wc-groupbuy-admin.php:346
+msgid "YYYY-MM-DD HH:MM"
+msgstr ""
+
+#: admin/class-wc-groupbuy-admin.php:345
+msgid "Group buy available to date"
+msgstr ""
+
+#: admin/class-wc-groupbuy-admin.php:346
+msgctxt "placeholder"
+msgid "To&hellip;"
+msgstr ""
+
+#: admin/class-wc-groupbuy-admin.php:350
+msgid "Relist"
+msgstr ""
+
+#: admin/class-wc-groupbuy-admin.php:352
+msgid "Relist Dates"
+msgstr ""
+
+#: admin/class-wc-groupbuy-admin.php:353
+msgctxt "placeholder"
+msgid "From&hellip; YYYY-MM-DD HH:MM"
+msgstr ""
+
+#: admin/class-wc-groupbuy-admin.php:356
+msgctxt "placeholder"
+msgid "To&hellip; YYYY-MM-DD HH:MM"
+msgstr ""
+
+#: admin/class-wc-groupbuy-admin.php:515
+msgid "Group Buy deals filter by "
+msgstr ""
+
+#: admin/class-wc-groupbuy-admin.php:635
+msgid "Group Buy History"
+msgstr ""
+
+#: admin/class-wc-groupbuy-admin.php:642
+msgid "Groupbuy has been relisted on:"
+msgstr ""
+
+#: admin/class-wc-groupbuy-admin.php:646
+msgid "Group Buy deal has finished"
+msgstr ""
+
+#: admin/class-wc-groupbuy-admin.php:649
+msgid "Group Buy deal failed because there were no participants"
+msgstr ""
+
+#: admin/class-wc-groupbuy-admin.php:653
+msgid "Group Buy deal failed because there was not enough participants"
+msgstr ""
+
+#: admin/class-wc-groupbuy-admin.php:655
+msgid "Refund "
+msgstr ""
+
+#: admin/class-wc-groupbuy-admin.php:665
+msgid "Group Buy deal winner is"
+msgstr ""
+
+#: admin/class-wc-groupbuy-admin.php:668
+msgid "Group Buy deal winners are"
+msgstr ""
+
+#: admin/class-wc-groupbuy-admin.php:692
+msgid "Date"
+msgstr ""
+
+#: admin/class-wc-groupbuy-admin.php:693
+msgid "User"
+msgstr ""
+
+#: admin/class-wc-groupbuy-admin.php:694
+msgid "Order"
+msgstr ""
+
+#: admin/class-wc-groupbuy-admin.php:695
+msgid "Actions"
+msgstr ""
+
+#: admin/class-wc-groupbuy-admin.php:705
+msgid "Groupbuy relisted"
+msgstr ""
+
+#: admin/class-wc-groupbuy-admin.php:714
+msgid "Delete"
+msgstr ""
+
+#: admin/class-wc-groupbuy-admin.php:723
+msgid "Group Buy deal started"
+msgstr ""
+
+#: admin/class-wc-groupbuy-admin.php:729
+msgid "Group Buy deal starting"
+msgstr ""
+
+#: admin/class-wc-groupbuy-admin.php:1165
+msgid "Group Buy deal failed. No minimum ticket sold"
+msgstr ""
+
+#: admin/class-wc-groupbuy-admin.php:1183
+msgid "Group Buy deal amount allready returned"
+msgstr ""
+
+#: admin/class-wc-groupbuy-admin.php:1227
+msgid "Invalid refund amount"
+msgstr ""
+
+#: admin/class-wc-groupbuy-admin.php:1242
+msgid "Refund failed"
+msgstr ""
+
+#: admin/class-wc-groupbuy-admin.php:1278
+msgid "Refunded"
+msgstr ""
+
+#: admin/class-wc-groupbuy-admin.php:1281
+msgid "Payment does not support refund"
+msgstr ""
+
+#: admin/class-wc-groupbuy-admin.php:1457
+msgid "An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+
+#: admin/class-wc-groupbuy-admin.php:1462
+msgid "An unknown error occurred"
+msgstr ""
+
+#: admin/class-wc-groupbuy-admin.php:1519
+#: admin/class-wc-groupbuy-admin.php:1537
+msgctxt "Order status"
+msgid "Group buy in progress"
+msgstr ""
+
+#: admin/class-wc-groupbuy-admin.php:1524
+msgid "Group buy in progress <span class=\"count\">(%s)</span>"
+msgid_plural "Group buy in progress<span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-wc-groupbuy-admin.php:1527
+#: admin/class-wc-groupbuy-admin.php:1538
+msgctxt "Order status"
+msgid "Group buy failed"
+msgstr ""
+
+#: admin/class-wc-groupbuy-admin.php:1532
+msgid "Group buy failed <span class=\"count\">(%s)</span>"
+msgid_plural "Group buy failed<span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-wc-settings-groupbuy.php:21
+msgid "Group Buy Deals"
+msgstr ""
+
+#: admin/class-wc-settings-groupbuy.php:37
+msgid "Woocommerce Group Buy options"
+msgstr ""
+
+#: admin/class-wc-settings-groupbuy.php:46
+msgid "Past Group Buy deals"
+msgstr ""
+
+#: admin/class-wc-settings-groupbuy.php:47
+msgid "Show finished Group Buy deals"
+msgstr ""
+
+#: admin/class-wc-settings-groupbuy.php:53
+msgid "Future Group Buy deals"
+msgstr ""
+
+#: admin/class-wc-settings-groupbuy.php:54
+msgid "Show Group Buy deals that did not start yet"
+msgstr ""
+
+#: admin/class-wc-settings-groupbuy.php:60
+msgid "Do not show Group Buy deals on shop page"
+msgstr ""
+
+#: admin/class-wc-settings-groupbuy.php:61
+msgid "Do not mix Group Buy deals and regular products on shop page. Just show Group Buy deals on the groupbuy page (groupbuy base page)"
+msgstr ""
+
+#: admin/class-wc-settings-groupbuy.php:67
+msgid "Do not show Group Buy deals on product search page"
+msgstr ""
+
+#: admin/class-wc-settings-groupbuy.php:68
+msgid "Do not mix Group Buy deals and regular products on product search page (show Group Buy deals only when using Group Buy deals search)"
+msgstr ""
+
+#: admin/class-wc-settings-groupbuy.php:74
+msgid "Do not show Group Buy deals on product category page"
+msgstr ""
+
+#: admin/class-wc-settings-groupbuy.php:75
+msgid "Do not mix Group Buy deals and regular products on product category page. Just show Group Buy deals on the groupbuy page (groupbuy base page)"
+msgstr ""
+
+#: admin/class-wc-settings-groupbuy.php:81
+msgid "Do not show Group Buy deals on product tag page"
+msgstr ""
+
+#: admin/class-wc-settings-groupbuy.php:82
+msgid "Do not mix Group Buy deals and regular products on product tag page. Just show groupbuy on the groupbuy page (groupbuy base page)"
+msgstr ""
+
+#: admin/class-wc-settings-groupbuy.php:88
+msgid "Countdown format"
+msgstr ""
+
+#: admin/class-wc-settings-groupbuy.php:89
+msgid "The format for the countdown display. Default is yowdHMS"
+msgstr ""
+
+#: admin/class-wc-settings-groupbuy.php:90
+msgid "Use the following characters (in order) to indicate which periods you want to display: 'Y' for years, 'O' for months, 'W' for weeks, 'D' for days, 'H' for hours, 'M' for minutes, 'S' for seconds. Use upper-case characters for mandatory periods, or the corresponding lower-case characters for optional periods, i.e. only display if non-zero. Once one optional period is shown, all the ones after that are also shown."
+msgstr ""
+
+#: admin/class-wc-settings-groupbuy.php:96
+msgid "Use compact countdown "
+msgstr ""
+
+#: admin/class-wc-settings-groupbuy.php:97
+msgid "Indicate whether or not the countdown should be displayed in a compact format."
+msgstr ""
+
+#: admin/class-wc-settings-groupbuy.php:103
+msgid "Woocommerce Group Buy deals Base Page"
+msgstr ""
+
+#: admin/class-wc-settings-groupbuy.php:104
+msgid "Set the base page for your Group Buy deals - this is where your Group Buy deals archive page will be."
+msgstr ""
+
+#: admin/class-wc-settings-groupbuy.php:113
+msgid "Show progress bar"
+msgstr ""
+
+#: admin/class-wc-settings-groupbuy.php:114
+msgid "Show Group Buy deals progress bar on single product page (groupbuy details page)"
+msgstr ""
+
+#: admin/class-wc-settings-groupbuy.php:120
+msgid "Group Buy deals badge"
+msgstr ""
+
+#: admin/class-wc-settings-groupbuy.php:121
+msgid "Show Group Buy deals badge in loop"
+msgstr ""
+
+#: admin/class-wc-settings-groupbuy.php:127
+msgid "Group Buy deals progress"
+msgstr ""
+
+#: admin/class-wc-settings-groupbuy.php:128
+msgid "Show Group Buy deals progress bar in loop"
+msgstr ""
+
+#: admin/class-wc-settings-groupbuy.php:134
+msgid "Group Buy deals time countdown"
+msgstr ""
+
+#: admin/class-wc-settings-groupbuy.php:135
+msgid "Show Group Buy deals time countdown bar in loop"
+msgstr ""
+
+#: admin/class-wc-settings-groupbuy.php:141
+msgid "Close Group Buy deal when maximum ticket was sold"
+msgstr ""
+
+#: admin/class-wc-settings-groupbuy.php:142
+msgid "Option to instantly finish Group Buy deal when maximum number of tickets was sold"
+msgstr ""
+
+#: admin/class-wpgenie-dashboard.php:62
+msgid "wpgenie.org - Our latest themes and plugins"
+msgstr ""
+
+#: admin/emails/class-wc-email-groupbuy-failed-user.php:32
+#: admin/emails/class-wc-email-groupbuy-failed.php:34
+msgid "Group Buy deal Fail"
+msgstr ""
+
+#: admin/emails/class-wc-email-groupbuy-failed-user.php:33
+msgid "Group Buy deal Fail emails are sent to user when Group Buy deal fails."
+msgstr ""
+
+#: admin/emails/class-wc-email-groupbuy-failed-user.php:40
+#: admin/emails/class-wc-email-groupbuy-failed.php:41
+msgid "Group Buy deal failed on {blogname}"
+msgstr ""
+
+#: admin/emails/class-wc-email-groupbuy-failed-user.php:41
+msgid "Better luck next time!"
+msgstr ""
+
+#: admin/emails/class-wc-email-groupbuy-failed.php:35
+msgid "Group Buy deal Fail emails are sent when Group Buy deal fails."
+msgstr ""
+
+#: admin/emails/class-wc-email-groupbuy-failed.php:42
+msgid "No interest in this Group Buy deal!"
+msgstr ""
+
+#: admin/emails/class-wc-email-groupbuy-failed.php:117
+#: admin/emails/class-wc-email-groupbuy-finished.php:117
+msgid "Enable/Disable"
+msgstr ""
+
+#: admin/emails/class-wc-email-groupbuy-failed.php:119
+#: admin/emails/class-wc-email-groupbuy-finished.php:119
+msgid "Enable this email notification"
+msgstr ""
+
+#: admin/emails/class-wc-email-groupbuy-failed.php:123
+#: admin/emails/class-wc-email-groupbuy-finished.php:123
+msgid "Recipient(s)"
+msgstr ""
+
+#: admin/emails/class-wc-email-groupbuy-failed.php:125
+#: admin/emails/class-wc-email-groupbuy-finished.php:125
+msgid "Enter recipients (comma separated) for this email. Defaults to <code>%s</code>."
+msgstr ""
+
+#: admin/emails/class-wc-email-groupbuy-failed.php:130
+#: admin/emails/class-wc-email-groupbuy-finished.php:130
+msgid "Subject"
+msgstr ""
+
+#: admin/emails/class-wc-email-groupbuy-failed.php:132
+#: admin/emails/class-wc-email-groupbuy-finished.php:132
+msgid "This controls the email subject line. Leave blank to use the default subject: <code>%s</code>."
+msgstr ""
+
+#: admin/emails/class-wc-email-groupbuy-failed.php:137
+#: admin/emails/class-wc-email-groupbuy-finished.php:137
+msgid "Email Heading"
+msgstr ""
+
+#: admin/emails/class-wc-email-groupbuy-failed.php:139
+#: admin/emails/class-wc-email-groupbuy-finished.php:139
+msgid "This controls the main heading contained within the email notification. Leave blank to use the default heading: <code>%s</code>."
+msgstr ""
+
+#: admin/emails/class-wc-email-groupbuy-failed.php:144
+#: admin/emails/class-wc-email-groupbuy-finished.php:144
+msgid "Email type"
+msgstr ""
+
+#: admin/emails/class-wc-email-groupbuy-failed.php:146
+#: admin/emails/class-wc-email-groupbuy-finished.php:146
+msgid "Choose which format of email to send."
+msgstr ""
+
+#: admin/emails/class-wc-email-groupbuy-failed.php:150
+#: admin/emails/class-wc-email-groupbuy-finished.php:150
+msgid "Plain text"
+msgstr ""
+
+#: admin/emails/class-wc-email-groupbuy-failed.php:151
+#: admin/emails/class-wc-email-groupbuy-finished.php:151
+msgid "HTML"
+msgstr ""
+
+#: admin/emails/class-wc-email-groupbuy-failed.php:152
+#: admin/emails/class-wc-email-groupbuy-finished.php:152
+msgid "Multipart"
+msgstr ""
+
+#: admin/emails/class-wc-email-groupbuy-finished.php:35
+msgid "Group Buy deal Finish"
+msgstr ""
+
+#: admin/emails/class-wc-email-groupbuy-finished.php:36
+msgid "Group Buy deal finish emails are sent to admin when groupbuy has finished."
+msgstr ""
+
+#: admin/emails/class-wc-email-groupbuy-finished.php:42
+msgid "Group Buy deal finished on {blogname}"
+msgstr ""
+
+#: admin/emails/class-wc-email-groupbuy-finished.php:43
+msgid "Group Buy deal finished!"
+msgstr ""
+
+#: admin/emails/class-wc-email-groupbuy-win.php:31
+msgid "Group Buy deal succeed."
+msgstr ""
+
+#: admin/emails/class-wc-email-groupbuy-win.php:32
+msgid "Group Buy deal succeed emails are sent to user when group deal finished and it succeed to get minimum deals."
+msgstr ""
+
+#: admin/emails/class-wc-email-groupbuy-win.php:39
+msgid "Group Buy deal succeed on {blogname}"
+msgstr ""
+
+#: admin/emails/class-wc-email-groupbuy-win.php:40
+msgid "Group Buy deal succeed!"
+msgstr ""
+
+#: includes/class-wc-product-groupbuy.php:237
+msgid "There were no participants"
+msgstr ""
+
+#: includes/class-wc-product-groupbuy.php:248
+msgid "The item did not make it to minimum participants"
+msgstr ""
+
+#: includes/class-wc-product-groupbuy.php:425
+#: includes/class-wc-product-groupbuy.php:429
+#: includes/class-wc-product-groupbuy.php:432
+msgid "Read more"
+msgstr ""
+
+#: includes/class-wc-product-groupbuy.php:432
+msgid "Participate"
+msgstr ""
+
+#: public/class-wc-groupbuy-public.php:108
+msgid "Years"
+msgstr ""
+
+#: public/class-wc-groupbuy-public.php:109
+msgid "Months"
+msgstr ""
+
+#: public/class-wc-groupbuy-public.php:110
+msgid "Weeks"
+msgstr ""
+
+#: public/class-wc-groupbuy-public.php:111
+msgid "Days"
+msgstr ""
+
+#: public/class-wc-groupbuy-public.php:112
+msgid "Hours"
+msgstr ""
+
+#: public/class-wc-groupbuy-public.php:113
+msgid "Minutes"
+msgstr ""
+
+#: public/class-wc-groupbuy-public.php:114
+msgid "Seconds"
+msgstr ""
+
+#: public/class-wc-groupbuy-public.php:117
+msgid "Year"
+msgstr ""
+
+#: public/class-wc-groupbuy-public.php:118
+msgid "Month"
+msgstr ""
+
+#: public/class-wc-groupbuy-public.php:119
+msgid "Week"
+msgstr ""
+
+#: public/class-wc-groupbuy-public.php:120
+msgid "Day"
+msgstr ""
+
+#: public/class-wc-groupbuy-public.php:121
+msgid "Hour"
+msgstr ""
+
+#: public/class-wc-groupbuy-public.php:122
+msgid "Minute"
+msgstr ""
+
+#: public/class-wc-groupbuy-public.php:123
+msgid "Second"
+msgstr ""
+
+#: public/class-wc-groupbuy-public.php:126
+msgid "y"
+msgstr ""
+
+#: public/class-wc-groupbuy-public.php:127
+msgid "m"
+msgstr ""
+
+#: public/class-wc-groupbuy-public.php:128
+msgid "w"
+msgstr ""
+
+#: public/class-wc-groupbuy-public.php:129
+msgid "d"
+msgstr ""
+
+#: public/class-wc-groupbuy-public.php:135
+msgid "Group Buy deal has finished! Please refresh page to see details."
+msgstr ""
+
+#: public/class-wc-groupbuy-public.php:135
+msgid "Group Buy deal has started! Please refresh page."
+msgstr ""
+
+#: public/class-wc-groupbuy-public.php:717
+msgid "Sorry, you must be logged in to participate in Group Buy deal. <a href=\"%s\" class=\"button\">Login &rarr;</a>"
+msgstr ""
+
+#: public/class-wc-groupbuy-public.php:732
+#: public/class-wc-groupbuy-public.php:796
+msgid "The maximum allowed quantity for %s is %d . You already have %d, so you can not add %d more."
+msgstr ""
+
+#: public/class-wc-groupbuy-public.php:778
+msgid "Sorry, you must be logged in to participate in Group Buy deals. <a href=\"%s\" class=\"button\">Login &rarr;</a>"
+msgstr ""
+
+#: public/class-wc-groupbuy-public.php:855
+msgid " Save %s"
+msgstr ""
+
+#: public/class-wc-groupbuy-public.php:1107
+msgid "You must wait for group buy deal to be closed before downloading."
+msgstr ""
+
+#: public/class-wc-groupbuy-public.php:1108
+msgid "Go to shop"
+msgstr ""
+
+#: public/class-wc-groupbuy-shortcodes.php:470
+msgid "Active Group Buy Deals"
+msgstr ""
+
+#: public/class-wc-groupbuy-shortcodes.php:510
+msgid "<p class=\"no-active-groupbuy\">You are not participating in group buy deal(s).</p>"
+msgstr ""
+
+#: public/class-wc-groupbuy-shortcodes.php:518
+msgid "Won Group Buy Deals"
+msgstr ""
+
+#: public/class-wc-groupbuy-shortcodes.php:553
+msgid "<p class=\"no-winned-groupbuy\">You did not win any group buy deals yet.</p>"
+msgstr ""
+
+#: public/widgets/class-wc-groupbuy-widget-ending-soon-groupbuy.php:30
+msgid "Display a list of your ending soon Group Buy Deals on your site."
+msgstr ""
+
+#: public/widgets/class-wc-groupbuy-widget-ending-soon-groupbuy.php:32
+msgid "WooCommerce Ending Soon Group Buy Deals"
+msgstr ""
+
+#: public/widgets/class-wc-groupbuy-widget-ending-soon-groupbuy.php:69
+msgid "Ending soon Group Buy Deals"
+msgstr ""
+
+#: public/widgets/class-wc-groupbuy-widget-ending-soon-groupbuy.php:108
+#: public/widgets/class-wc-groupbuy-widget-featured-groupbuy.php:111
+#: public/widgets/class-wc-groupbuy-widget-future-groupbuy.php:116
+#: public/widgets/class-wc-groupbuy-widget-random-groupbuy.php:78
+#: public/widgets/class-wc-groupbuy-widget-recent-groupbuy.php:102
+#: public/widgets/class-wc-groupbuy-widget-recently-groupbuy.php:107
+msgid "Time left"
+msgstr ""
+
+#: public/widgets/class-wc-groupbuy-widget-ending-soon-groupbuy.php:111
+#: public/widgets/class-wc-groupbuy-widget-featured-groupbuy.php:114
+#: public/widgets/class-wc-groupbuy-widget-future-groupbuy.php:119
+#: public/widgets/class-wc-groupbuy-widget-random-groupbuy.php:81
+#: public/widgets/class-wc-groupbuy-widget-recent-groupbuy.php:105
+#: public/widgets/class-wc-groupbuy-widget-recently-groupbuy.php:110
+msgid "Starting in"
+msgstr ""
+
+#: public/widgets/class-wc-groupbuy-widget-ending-soon-groupbuy.php:118
+#: public/widgets/class-wc-groupbuy-widget-featured-groupbuy.php:123
+#: public/widgets/class-wc-groupbuy-widget-future-groupbuy.php:126
+#: public/widgets/class-wc-groupbuy-widget-random-groupbuy.php:88
+#: public/widgets/class-wc-groupbuy-widget-recent-groupbuy.php:112
+#: public/widgets/class-wc-groupbuy-widget-recently-groupbuy.php:117
+msgid "groupbuy finished"
+msgstr ""
+
+#: public/widgets/class-wc-groupbuy-widget-ending-soon-groupbuy.php:187
+#: public/widgets/class-wc-groupbuy-widget-featured-groupbuy.php:201
+#: public/widgets/class-wc-groupbuy-widget-future-groupbuy.php:194
+#: public/widgets/class-wc-groupbuy-widget-random-groupbuy.php:146
+#: public/widgets/class-wc-groupbuy-widget-recent-groupbuy.php:182
+#: public/widgets/class-wc-groupbuy-widget-recently-groupbuy.php:189
+msgid "Title:"
+msgstr ""
+
+#: public/widgets/class-wc-groupbuy-widget-ending-soon-groupbuy.php:190
+#: public/widgets/class-wc-groupbuy-widget-featured-groupbuy.php:204
+#: public/widgets/class-wc-groupbuy-widget-future-groupbuy.php:197
+#: public/widgets/class-wc-groupbuy-widget-random-groupbuy.php:150
+#: public/widgets/class-wc-groupbuy-widget-recent-groupbuy.php:185
+#: public/widgets/class-wc-groupbuy-widget-recently-groupbuy.php:192
+msgid "Number of groupbuy to show:"
+msgstr ""
+
+#: public/widgets/class-wc-groupbuy-widget-ending-soon-groupbuy.php:194
+#: public/widgets/class-wc-groupbuy-widget-featured-groupbuy.php:208
+#: public/widgets/class-wc-groupbuy-widget-future-groupbuy.php:201
+#: public/widgets/class-wc-groupbuy-widget-random-groupbuy.php:154
+#: public/widgets/class-wc-groupbuy-widget-recent-groupbuy.php:189
+#: public/widgets/class-wc-groupbuy-widget-recently-groupbuy.php:196
+msgid "Hide time left"
+msgstr ""
+
+#: public/widgets/class-wc-groupbuy-widget-featured-groupbuy.php:33
+msgid "Display a list of featured Group Buy Deals on your site."
+msgstr ""
+
+#: public/widgets/class-wc-groupbuy-widget-featured-groupbuy.php:35
+msgid "WooCommerce Featured Group Buy Deals"
+msgstr ""
+
+#: public/widgets/class-wc-groupbuy-widget-featured-groupbuy.php:73
+msgid "Featured Group Buy Deals"
+msgstr ""
+
+#: public/widgets/class-wc-groupbuy-widget-future-groupbuy.php:30
+msgid "Display a list of your future Group Buy Deals on your site."
+msgstr ""
+
+#: public/widgets/class-wc-groupbuy-widget-future-groupbuy.php:32
+msgid "WooCommerce Future Group Buy Deals"
+msgstr ""
+
+#: public/widgets/class-wc-groupbuy-widget-future-groupbuy.php:73
+msgid "Future Group Buy Deals"
+msgstr ""
+
+#: public/widgets/class-wc-groupbuy-widget-random-groupbuy.php:24
+msgid "WooCommerce Random Group Buy Deals"
+msgstr ""
+
+#: public/widgets/class-wc-groupbuy-widget-random-groupbuy.php:27
+msgid "Display a list of random Group Buy Deals on your site."
+msgstr ""
+
+#: public/widgets/class-wc-groupbuy-widget-random-groupbuy.php:47
+msgid "Random groupbuy"
+msgstr ""
+
+#: public/widgets/class-wc-groupbuy-widget-recent-groupbuy.php:31
+msgid "Display a list of your most recent Group Buy Deals on your site."
+msgstr ""
+
+#: public/widgets/class-wc-groupbuy-widget-recent-groupbuy.php:33
+msgid "WooCommerce Recent Group Buy Deals"
+msgstr ""
+
+#: public/widgets/class-wc-groupbuy-widget-recent-groupbuy.php:71
+msgid "Latest Group Buy Deals"
+msgstr ""
+
+#: public/widgets/class-wc-groupbuy-widget-recently-groupbuy.php:31
+msgid "Display a list of recently viewed Group Buy Deals."
+msgstr ""
+
+#: public/widgets/class-wc-groupbuy-widget-recently-groupbuy.php:33
+msgid "WooCommerce Recently Viewed Group Buy Deals"
+msgstr ""
+
+#: public/widgets/class-wc-groupbuy-widget-recently-groupbuy.php:77
+msgid "Recently viewed Group Buy Deals"
+msgstr ""
+
+#: public/widgets/class-wc-widget-groupbuy-search.php:25
+msgid "A Search box for Group Buy Deals only."
+msgstr ""
+
+#: public/widgets/class-wc-widget-groupbuy-search.php:27
+msgid "Search Group Buy Deals"
+msgstr ""
+
+#: public/widgets/class-wc-widget-groupbuy-search.php:32
+msgid "Title"
+msgstr ""
+
+#: templates/emails/groupbuy_fail.php:13
+msgid "Sorry. Group buy deal <a href='%s'>%s</a> has failed."
+msgstr ""
+
+#: templates/emails/groupbuy_fail_user.php:14
+msgid "We are sorry. There was no minimum user(s) for <a href='%s'>%s</a> deal. Better luck next time."
+msgstr ""
+
+#: templates/emails/groupbuy_finish.php:14
+msgid "Group buy deal <a href='%s'>%s</a> has finished."
+msgstr ""
+
+#: templates/emails/groupbuy_win.php:14
+msgid "Congratulations! Group buy deal <a href='%s'>%s</a> was success!"
+msgstr ""
+
+#: templates/emails/plain/groupbuy_fail.php:15
+msgid "Sorry. Group buy deal for %s has failed. %s "
+msgstr ""
+
+#: templates/emails/plain/groupbuy_fail_user.php:15
+msgid "We are sorry. There was no minimum user(s) for %s deal.  Better luck next time."
+msgstr ""
+
+#: templates/emails/plain/groupbuy_finish.php:16
+msgid "Group buy deal %s has finished."
+msgstr ""
+
+#: templates/emails/plain/groupbuy_win.php:15
+msgid "Congratulations! Group buy deal %s was success."
+msgstr ""
+
+#: templates/groupbuy-searchform.php:2
+msgid "Search for:"
+msgstr ""
+
+#: templates/groupbuy-searchform.php:3
+msgctxt "placeholder"
+msgid "Search Group Buy Deals &hellip;"
+msgstr ""
+
+#: templates/groupbuy-searchform.php:3
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: templates/groupbuy-searchform.php:4
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: templates/loop/groupbuy-countdown.php:17
+#: templates/single-product/groupbuy-participate.php:18
+msgid "Time left:"
+msgstr ""
+
+#: templates/loop/groupbuy-countdown.php:22
+#: templates/single-product/groupbuy-participate.php:48
+msgid "Group Buy deal starts in:"
+msgstr ""
+
+#: templates/single-product/add-to-cart/groupbuy.php:33
+msgid "Buy now for %s"
+msgstr ""
+
+#: templates/single-product/add-to-cart/groupbuy.php:33
+msgid "free"
+msgstr ""
+
+#: templates/single-product/groupbuy-ended.php:13
+msgid "Please be patient. We are waiting for some orders to be payed!"
+msgstr ""
+
+#: templates/single-product/groupbuy-ended.php:17
+msgid "Congratulations! Group Buy deal was success."
+msgstr ""
+
+#: templates/single-product/groupbuy-ended.php:19
+msgid "Sorry, better luck next time. Deal failed."
+msgstr ""
+
+#: templates/single-product/groupbuy-participate.php:24
+#: templates/single-product/groupbuy-participate.php:53
+msgid "Group Buy deal ends:"
+msgstr ""
+
+#: templates/single-product/groupbuy-participate.php:25
+msgid "Timezone: %s"
+msgstr ""
+
+#: templates/single-product/groupbuy-participate.php:25
+msgid "UTC+"
+msgstr ""
+
+#: templates/single-product/groupbuy-participate.php:29
+msgid "Minimum:"
+msgstr ""
+
+#: templates/single-product/groupbuy-participate.php:30
+msgid "Maximum:"
+msgstr ""
+
+#: templates/single-product/groupbuy-participate.php:30
+msgid "No maximum"
+msgstr ""
+
+#: templates/single-product/groupbuy-participate.php:31
+msgid "Deals sold:"
+msgstr ""
+
+#: templates/single-product/groupbuy-participate.php:52
+msgid "Group Buy deal starts:"
+msgstr ""

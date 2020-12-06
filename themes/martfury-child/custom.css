@@ -1,0 +1,19 @@
+/*
+*
+*  Color pallet
+*
+*/
+.hide_pricing {
+  color: #ff004e;
+  font-weight: 700;
+}
+
+.site-header .main-menu {
+  border-top: 1px solid rgba(255, 255, 255, 0.3) !important;
+}
+
+.price-rule-active .amount {
+  color: black !important;
+}
+
+/*# sourceMappingURL=custom.css.map */

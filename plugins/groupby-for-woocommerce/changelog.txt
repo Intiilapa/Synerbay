@@ -1,0 +1,103 @@
+** Version 1.1.19 **
+- Fix: WPML shortcode and widgets bug
+
+** Version 1.1.18 **
+- Add: quantity selector now reflects max deals per user limit
+- Fix: fatal error when relisting
+- Fix: required fields when publishing group buy / deal
+- Fix: shortcode [my_groupbuys] not showing past groupbuys
+- Fix: php error
+- Add: do not mix deals with regular products disabled by default
+
+** Version 1.1.17 **
+- Fix: Better refund handling for failed group buy deals
+- Add: New order status for deals "Group buy in progress" and "Group buy failed"
+
+** Version 1.1.16 **
+- Fix: Updating product lookup table
+- Fix: Removed update function
+- Add: Added WPMU support
+
+** Version 1.1.15 **
+- Fix: Automatic partial refund
+- Fix: fixed POT file
+
+** Version 1.1.14 **
+- Fix: downloadable product available for download only if deal is success
+
+** Version 1.1.13 **
+- Fix: mail notifications for suceed deal
+
+** Version 1.1.12 **
+- Fix: Removing groupbuy from users my groupbuy list when deleting log in admin
+- Fix: Bug when doing automatic refund on PHP v7.2
+- Fix: Notice
+
+** Version 1.1.11 **
+- Fix: my_groupbuys shortcode problem with relisted groupbuys
+- Fix: Refund notice for payment that does not support automatic refund
+
+** Version 1.1.10 **
+- Fix: Replaced woocommerce_get_page_id with wc_get_page_id
+- Fix: Refund ajax working style
+- Add: Redirection to previous page after login
+- Fix: Fixed deprecated function
+
+** Version 1.1.9 **
+- Fix: Illegal string offset 'product_id'
+- Fix: Replaced woocommerce_get_page_id with wc_get_page_id
+- Fix: Changed name of jquery countdown plugin for compability issue
+
+** Version 1.1.8 **
+- Add: Last second order waits for "Hold Stock (minutes)" until order is marked as cancelled / failed due to delay caused by payment process
+- Fix: Changed name of jquery countdown plugin for compability issue
+
+** Version 1.1.7 **
+- Add: Limit ticket by lottery in the quantity selector
+- Fix: Changed admin dashboard widget
+- Fix: Php notice in backend WooCommerce email settings
+- Add: Compact countdown option
+
+** Version 1.1.6 **
+- Fix: stock status not changing when relisting
+- Fix: featured_groupbuys shortcode bug
+- Fix: future group buy not showing once it starts
+- Fix: bugs in admin backend filter product on PHP v7.1.x
+
+** Version 1.1.5 **
+- Fix: Bug not creating log table on activation
+
+** Version 1.1.4 **
+- Fix: Featured groupbuys shortcode bug
+- Fix: Groupbuys shortcode bug
+
+** Version 1.1.3 **
+- Fix: Featured widget bug
+- Fix: Check for minimal PHP and WordPress versions to avoid fatal errors on activating plugin in unsupported environment
+
+** Version 1.1.2 **
+- Fix: Progres bar no-min class on single page
+- Fix: Progres bar value 0 bug
+
+** Version 1.1.1 **
+- Fix: Query problems with WC 3.0.0
+- Fix: WPML bug when using secondary language without main language
+
+** Version 1.1 **
+- Fix: WooCommerce > 3.0 compatibility
+- Fix: Delete entry when order is cancelled
+- Fix: Multiple failed emails to same user
++ Add: manual group buy relist feature
++ Add: Added [vendor] tag for sending mail to group buy author/vendor on group_buy_fail, group_buy_finished - useful with multivendor plugins like WC Vendors or if you want to send email to group buy author or owner in case of multivendor site
+
+** Version 1.0.3 **
+- Fix: fatal error bug in loop template
+
+** Version 1.0.2 **
+- Fix: JS bug in frontend
+
+** Version 1.0.1 **
+- Fix: Bug with text domain
+
+** Version 1.0.0 **
+- Initial release

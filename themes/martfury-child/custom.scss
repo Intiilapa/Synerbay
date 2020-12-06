@@ -1,0 +1,21 @@
+/*
+*
+*  Color pallet
+*
+*/
+
+$primary-color : #ff004e;
+
+
+.hide_pricing{
+  color: $primary-color;
+  font-weight: 700;
+}
+
+.site-header .main-menu{
+  border-top: 1px solid rgb(255,255,255,0.3)!important;
+}
+
+.price-rule-active .amount{
+  color: black!important;
+}

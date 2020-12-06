@@ -1,0 +1,196 @@
+.is-gbcountdown {
+
+}
+
+.gbcountdown-rtl {
+	direction: rtl;
+}
+
+.gbcountdown-holding span {
+	color: #888;
+}
+
+.gbcountdown-row {
+	clear: both;
+	width: 100%;
+	padding: 0px 2px;
+	text-align: center;
+}
+
+.gbcountdown-show1 .gbcountdown-section {
+	width: 98%;
+}
+
+.gbcountdown-show2 .gbcountdown-section {
+	width: 48%;
+}
+
+.gbcountdown-show3 .gbcountdown-section {
+	width: 32.5%;
+}
+
+.gbcountdown-show4 .gbcountdown-section {
+	width: 24.5%;
+}
+
+.gbcountdown-show5 .gbcountdown-section {
+	width: 19.5%;
+}
+
+.gbcountdown-show6 .gbcountdown-section {
+	width: 16.25%;
+}
+
+.gbcountdown-show7 .gbcountdown-section {
+	width: 14%;
+}
+
+.gbcountdown-section {
+	display: block;
+	float: left;
+	font-size: 75%;
+	text-align: center;
+}
+
+.gbcountdown-amount {
+    font-size: 200%;
+}
+
+.gbcountdown-period {
+    display: block;
+}
+
+.gbcountdown-descr {
+	display: block;
+	width: 100%;
+}
+
+.groupbuy-time:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+span.winning {
+	min-height: 52px;
+	min-width: 32px;
+	padding: 4px;
+	font-size: 12px;
+	font-weight: bold;
+	position: absolute;
+	text-align: center;
+	line-height: 52px;
+	top: -16px;
+	left: -16px;
+	margin: 0;
+	-moz-border-radius: 20px;
+	border-radius: 40px;
+	background: #a2c094;
+	background: -webkit-gradient(linear,left top,left bottom,from(#a2c094),to(#85ad74));
+	background: -webkit-linear-gradient(#a2c094,#85ad74);
+	color:#fff;
+}
+
+.widget .hasCountdown { background: none; border:none;}
+.widget .countdown_amount { font-size:120%}
+.widget .time-left,.widget .has-finished { display: block}
+.hasCountdown .over { text-align: center; padding:1em;}
+.ajax-working { background: url(../images/ajax-loader.gif) center center no-repeat; width: 100%; height:50px;}
+.groupbuy-bage{ background-size: 100%; width:32px; height: 32px; position: absolute; right:16px; top:12px; font-size: 32px}
+
+.blink{ color:red !important; }
+
+progress[value] {
+  /* Reset the default appearance */
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+
+  /* Get rid of default border in Firefox. */
+  border: none;
+
+  /* Dimensions */
+  width: 100%;
+  height: 20px;
+}
+
+progress[value]::-webkit-progress-bar {
+  background-color: whiteSmoke;
+  border-radius: 2px;
+
+}
+progress[value]::-webkit-progress-value {
+ 	background-color:#8bcf69;
+  border-radius: 2px;
+}
+
+.full > progress[value]::-webkit-progress-value{
+  background-color: red;
+}
+.no-min > progress[value]::-webkit-progress-value{
+  background-color: #FF8C00;
+}
+
+.wcl-progress-meter {
+	position: relative;
+	margin-top: 2em
+}
+
+.wcl-progress-meter meter {width: 100%; height: 20px;
+ -webkit-appearance: none;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+	position: relative;
+}
+
+.wcl-progress-meter meter::-webkit-meter-bar {
+  background: none; /* Required to get rid of the default background property */
+  background-color: whiteSmoke;
+
+}
+
+.wcl-progress-meter meter::-webkit-meter-optimum-value {
+  box-shadow: 0 5px 5px -5px #999 inset;
+  background: #8bcf69;
+
+}
+
+.wcl-progress-meter meter::-webkit-meter-suboptimum-value {
+  box-shadow: 0 5px 5px -5px #999 inset;
+  background: #e6d450;
+
+}
+
+.wcl-progress-meter .zero {
+  display: block;
+  position: absolute;
+  top: -100%;
+}
+
+.wcl-progress-meter .min {
+  display: block;
+  position: absolute;
+  top: -100%;
+}
+.wcl-progress-meter .progress-value {
+  display: block;
+  position: absolute;
+  top: -100%;
+}
+
+
+.wcl-progress-meter .max {
+  display: block;
+  position: absolute;
+  top: -100%;
+  right: 0;
+}
+
+.deal-info > span {
+	display: block
+
+}
+.groupbuy-ajax-change {
+    margin-top: 40px;
+    display: block;
+}
